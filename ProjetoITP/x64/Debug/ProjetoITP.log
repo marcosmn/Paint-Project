@@ -1,0 +1,10 @@
+﻿  InstrucoesAuxiliares.cpp
+c:\users\20151011110279\documents\visual studio 2017\projects\projetoitp\projetoitp\instrucoesauxiliares.cpp(35): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+c:\users\20151011110279\documents\visual studio 2017\projects\projetoitp\projetoitp\instrucoesauxiliares.cpp(42): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+c:\users\20151011110279\documents\visual studio 2017\projects\projetoitp\projetoitp\instrucoesauxiliares.cpp(56): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+c:\users\20151011110279\documents\visual studio 2017\projects\projetoitp\projetoitp\instrucoesauxiliares.cpp(63): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+c:\users\20151011110279\documents\visual studio 2017\projects\projetoitp\projetoitp\instrucoesauxiliares.cpp(81): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+c:\users\20151011110279\documents\visual studio 2017\projects\projetoitp\projetoitp\instrucoesauxiliares.cpp(88): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+c:\users\20151011110279\documents\visual studio 2017\projects\projetoitp\projetoitp\instrucoesauxiliares.cpp(102): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+c:\users\20151011110279\documents\visual studio 2017\projects\projetoitp\projetoitp\instrucoesauxiliares.cpp(109): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  ProjetoITP.vcxproj -> C:\Users\20151011110279\Documents\Visual Studio 2017\Projects\ProjetoITP\x64\Debug\ProjetoITP.exe
