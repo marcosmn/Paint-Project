@@ -1,0 +1,30 @@
+image 1000 1000
+color 135 206 235
+fill 100 100
+color 100 200 100
+rect 550 000 500 1000
+fill 700 500
+color 0 0 0
+rect 500 500 100 200
+rect 550 550 50 25
+polygon 3 500 500 400 600 500 700
+circle 100 100 50
+color 200 000 100
+fill 570 560
+color 150 75 000
+fill 450 630
+fill 530 580
+fill 570 580
+fill 570 510
+color 200 200 000
+fill 130 100
+color 200 200 200
+circle 100 300 60
+fill 110 300
+circle 100 400 70
+fill 110 400
+circle 150 350 40
+fill 160 350
+circle 140 450 80
+fill 160 490
+save casaBasica.ppm
